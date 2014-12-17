@@ -1,0 +1,55 @@
+#me{
+	position: absolute;
+	color: #D3D3D3;
+	left: 65px;
+}
+#me:hover{
+	position: absolute;
+	color: white;
+	left: 65px;
+}
+
+p{
+	position: relative;
+	top: 150px;
+	font-family: 'Dosis', sans-serif;
+	color: #5C5C5C;
+	font-size: 45px;
+
+
+}
+
+
+
+h1{
+	position: relative;
+	top: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px;
+	text-align: center;
+	font-weight: bolder;
+	width: 30%;
+	left: 35%;
+	/*color: white;*/
+}
+
+h2{
+	position: relative;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px;
+	text-align: center;
+	font-weight: bolder;
+	/*color: white;*/
+}
+
+
+body{
+	background-image: url("static_url("body_image.jpg") }}");
+	-webkit-background-size: cover;
+	margin: auto;
+	background-repeat: no-repeat;
+	height: 100%;
+	margin-bottom:10px;
+	background-size: 100%;
+}
+
